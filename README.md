@@ -1,5 +1,7 @@
-## Welcome to my Github! Let's Connect! %nbsp;<a href="https://www.linkedin.com/in/charles-friend-8b4603199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
+## Welcome to my Github! Let's Connect!
+<a href="https://www.linkedin.com/in/charles-friend-8b4603199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
 <br>
+
 ## I’m currently learning:
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" align="left" /> 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Dotnet" align="left" />

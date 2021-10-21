@@ -1,9 +1,13 @@
-Welcome to my Github! 👋
+## Welcome to my Github! Let's Connect! 
+<a href="https://www.linkedin.com/in/charles-friend-8b4603199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
+
+<br>
 
 ## I’m currently learning:
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" align="left" /> 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Dotnet" align="left" />
 
+<br>
 
 ## My Languages:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" align="left" />
@@ -22,5 +26,4 @@ Welcome to my Github! 👋
 ## My deployed websites:
 http://3.144.36.61/ <---- Multi-User Hiking App, http://13.58.136.62 <---- Checklist App
 - 👀 My Interests are: 💻 ⚾ 🥾
-## Let's Connect! 
-<a href="https://www.linkedin.com/in/charles-friend-8b4603199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
+

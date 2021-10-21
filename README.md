@@ -20,8 +20,8 @@
 <br>
 
 ## My deployed websites:
-<a href="http://3.144.36.61/"><button style="background-color: forestgreen; color: white;">Hikers Landing</button></a>
-<a href="http://13.58.136.62/" role="button" style="background-color: goldenrod; color: black;">Checklistopia</a>
+<a href="http://3.144.36.61/" align="left">Hikers Landing</a>
+<a href="http://13.58.136.62/" align="left">Checklistopia</a>
 <br>
 
 ## My Interests are: 

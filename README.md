@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" align="left" />
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" align="left" />
 <br>
-
+<br>
 ## My deployed websites:
 <a href="http://3.144.36.61/" align="left">Hikers Landing</a>
 <a href="http://13.58.136.62/" align="left">Checklistopia</a>

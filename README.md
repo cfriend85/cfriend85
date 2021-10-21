@@ -24,7 +24,7 @@ http://3.144.36.61/ <---- Multi-User Hiking App, http://13.58.136.62 <---- Check
 <br>
 
 ## My Interests are: 
-<img src="https://lakelandmom.com/wp-content/uploads/2021/01/Baseball-Teams-Lakeland-Florida.jpg" alt="Baseball" align="left" style="height: 250px; width: 300px;"/>
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/chris-ried-ieic5Tq8YMk-unsplas_1200x768.jpeg?bEhcYQAShJnLf0Mtu4JYq8YzICfhz2rB&size=770:433" alt="Coding" align="left" style="height: 250px; width: 300px;"/>
-<img src="https://i.natgeofe.com/n/8f633a47-1da9-4873-b851-0ed1bdd93e9a/hiking-survival-day-hike-alone_16x9.jpg" alt="Hiking" align="left" style="height: 250px; width: 300px;"/>
+<img src="https://lakelandmom.com/wp-content/uploads/2021/01/Baseball-Teams-Lakeland-Florida.jpg" alt="Baseball" align="left" style="height: 150px; width: 150px;"/>
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/chris-ried-ieic5Tq8YMk-unsplas_1200x768.jpeg?bEhcYQAShJnLf0Mtu4JYq8YzICfhz2rB&size=770:433" alt="Coding" align="left" style="height: 150px; width: 150px;"/>
+<img src="https://i.natgeofe.com/n/8f633a47-1da9-4873-b851-0ed1bdd93e9a/hiking-survival-day-hike-alone_16x9.jpg" alt="Hiking" align="left" style="height: 150px; width: 150px;"/>
 

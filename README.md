@@ -1,5 +1,5 @@
 ## Welcome to my Github! Let's Connect!
-<a href="https://www.linkedin.com/in/charles-friend-8b4603199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
+<a href="https://www.linkedin.com/in/charles-friend-8b4603199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
 <br>
 
 ## I’m currently learning:

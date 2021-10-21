@@ -20,7 +20,8 @@
 <br>
 
 ## My deployed websites:
-http://3.144.36.61/ <---- Multi-User Hiking App, http://13.58.136.62 <---- Checklist App
+<a href="http://3.144.36.61/" style="background-color: forestgreen; color: white;">Hikers Landing</a>
+<a href="http://13.58.136.62/" style="background-color: goldenrod; color: black;">Checklistopia</a>
 <br>
 
 ## My Interests are: 

@@ -24,5 +24,7 @@ http://3.144.36.61/ <---- Multi-User Hiking App, http://13.58.136.62 <---- Check
 <br>
 
 ## My Interests are: 
+<img src="https://lakelandmom.com/wp-content/uploads/2021/01/Baseball-Teams-Lakeland-Florida.jpg" alt="Baseball" align="left" />
+
 💻 ⚾ 🥾
 

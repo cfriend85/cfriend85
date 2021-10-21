@@ -20,7 +20,7 @@
 <br>
 
 ## My deployed websites:
-<button style="background-color: forestgreen; color: white;"><a href="http://3.144.36.61/"></a>Hikers Landing</button>
+<a href="http://3.144.36.61/"><button style="background-color: forestgreen; color: white;">Hikers Landing</button></a>
 <a href="http://13.58.136.62/" role="button" style="background-color: goldenrod; color: black;">Checklistopia</a>
 <br>
 

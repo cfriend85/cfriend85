@@ -35,7 +35,7 @@
 <br>
 
 ## My deployed websites:
-<a href="http://3.144.36.61/" align="left">Hikers Landing</a>
+<a href="http://3.15.149.80/" align="left">Hikers Landing</a>
 <a href="http://13.58.136.62/" align="left">Checklistopia</a>
 <br>
 

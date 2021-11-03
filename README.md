@@ -39,7 +39,7 @@
 <a href="http://13.58.136.62/" align="left">Checklistopia</a>
 <br>
 
-![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=synthwave&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfriend85&layout=compact&theme=synthwave)
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=synthwave)
+![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfriend85&layout=compact&theme=radical)
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=radical)
 

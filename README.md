@@ -39,8 +39,7 @@
 <a href="http://13.58.136.62/" align="left">Checklistopia</a>
 <br>
 
-## My Interests are: 
-<img src="https://lakelandmom.com/wp-content/uploads/2021/01/Baseball-Teams-Lakeland-Florida.jpg" alt="Baseball" align="left" style="height: 150px; width: 200px;"/>
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/chris-ried-ieic5Tq8YMk-unsplas_1200x768.jpeg?bEhcYQAShJnLf0Mtu4JYq8YzICfhz2rB&size=770:433" alt="Coding" align="left" style="height: 150px; width: 200px;"/>
-<img src="https://i.natgeofe.com/n/8f633a47-1da9-4873-b851-0ed1bdd93e9a/hiking-survival-day-hike-alone_16x9.jpg" alt="Hiking" align="left" style="height: 150px; width: 200px;"/>
+![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfriend85&layout=compact&theme=tokyonight)
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=tokyonight)
 

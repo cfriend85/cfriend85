@@ -34,11 +34,6 @@
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" align="left"/>
 <br></br>
 
-## My deployed websites:
-<a href="http://3.15.149.80/" align="left">Hikers Landing</a>
-<a href="http://13.58.136.62/" align="left">Checklistopia</a>
-<br></br>
-
 ![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=radical&show_icons=true)
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=radical)
 

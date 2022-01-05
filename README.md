@@ -36,5 +36,5 @@
 <br></br>
 
 ![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=cobalt2&show_icons=true)
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=cobalt2)
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=moltack)
 

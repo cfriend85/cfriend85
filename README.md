@@ -35,6 +35,6 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" align="left" />
 <br></br>
 
-![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=cobalt2&show_icons=true)
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=moltack)
+![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=moltack&show_icons=true)
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=maroongold)
 

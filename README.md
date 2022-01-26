@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/charles-friend-8b4603199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
 <br></br>
 
-# I'm Currently Learning:
+## I'm Currently Learning:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" align="left" /> 
 <br></br>
 

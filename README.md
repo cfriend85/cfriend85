@@ -37,4 +37,6 @@
 
 ![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=moltack&show_icons=true)
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=maroongold)
+<br></br>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cfriend85" alt="cfriend85 Github Trophies" /></a>
 

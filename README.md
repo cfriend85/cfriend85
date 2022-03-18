@@ -3,7 +3,7 @@
 <br></br>
 
 ## I'm Currently Learning:
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" align="left" /> 
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white 
 <br></br>
 
 ## My Languages:

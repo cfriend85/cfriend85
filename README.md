@@ -3,7 +3,7 @@
 <br></br>
 
 ## I'm Currently Learning:
-<img src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="C#" align="left" />  
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" align="left" />  
 <br></br>
 
 ## My Languages:

@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/charles-friend-8b4603199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
 <br></br>
 
+## Coding Joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br></br>
 

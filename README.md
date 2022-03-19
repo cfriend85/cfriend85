@@ -1,11 +1,8 @@
 ## Welcome to my Github! Let's Connect!
 <a href="https://www.linkedin.com/in/charles-friend-8b4603199/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Social"></a>
-<br></br>
-
 ## Coding Joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br></br>
-
 ## I'm Currently Learning:
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" align="left" />  
 <br></br>
@@ -42,5 +39,4 @@
 ![cfriend85's Github stats](https://github-readme-stats.vercel.app/api?username=cfriend85&theme=moltack&show_icons=true)
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=cfriend85&theme=maroongold)
 <br></br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cfriend85" alt="cfriend85 Github Trophies" /></a>
 
